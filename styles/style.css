@@ -51,8 +51,6 @@ p{
     text-align: center;
     
 }
-
-}
 .main
 {
     display: flex;
@@ -64,9 +62,6 @@ h1{
     margin: 1rem 0 1rem 0;
     color:black
 }  
-
-    background-color:rgb(212, 212, 212);
-}
 #form-container{
     margin-left:30em;
     margin-top:10em;
